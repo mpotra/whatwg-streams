@@ -1,0 +1,22 @@
+{
+  "name": "whatwg-streams",
+  "version": "1.0.0",
+  "description": "WHATWG Streams Implementation for Node.JS",
+  "authors": [
+    "Mihai Potra <mike@mpotra.com>"
+  ],
+  "license": "MIT",
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:mpotra/whatwg-streams.git"
+  },
+  "keywords": [
+    "node", "whatwg", "streams", "stream", "readablestream", "writablestream", "readable", "writable",
+    "transform", "transformstream", "standard", "implementation"
+  ],
+  "bugs": {
+    "url": "https://github.com/mpotra/whatwg-streams/issues"
+  },
+  "homepage": "https://github.com/mpotra/whatwg-streams/"
+}
