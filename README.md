@@ -27,7 +27,12 @@ Current status is **WIP** _(Work In Progress)_ and implements the Standard as fo
     - [Queue-with-sizes](https://streams.spec.whatwg.org/#queue-with-sizes) - **complete**
     - [Miscellaneous operations](https://streams.spec.whatwg.org/#misc-abstract-ops) - **almost complete**
         - [TransferArrayBuffer(O)](https://streams.spec.whatwg.org/#transfer-array-buffer) - **missing**
-        
+
+## Installation
+
+`npm install whatwg-streams-impl`
+
+
 ## Usage example (ReadableStream)
 
 ```js
