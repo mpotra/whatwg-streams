@@ -1,5 +1,5 @@
 {
-  "name": "whatwg-streams",
+  "name": "whatwg-streams-impl",
   "version": "1.0.0",
   "description": "WHATWG Streams Implementation for Node.JS",
   "authors": [
